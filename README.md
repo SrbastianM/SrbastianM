@@ -13,4 +13,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 - ⚡ Fun fact: My first line of code was not "Hello World!" -> if i remember my first code line was "Hello Miau" heeh in Java
 
 [![Tenki's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SrbastianM.id&left_color=green&right_color=red)
