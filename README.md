@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](https://raw.githubusercontent.com/SrbastianM/SrbastianM/)
+
 
 Hello!, My name is Sebastian. I currently lives in lives in the Colombia. I'm learning how to code about four years ago. I love making and designing phone aplications with Flutter and Kotlin (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily acceses (that's the reason why I choosed code mobile aplications) . I also enjoy programming in JavaScript but in this time I only focus to improve my skills in Mobile (later I re take my learning in javaScirpt. I love it when I can finally solve a difficult problem (even if take's a litle while).
 
@@ -14,7 +14,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 
 [![Tenki's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
-- <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[srbastianm]" />
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=SrbastianM.id&left_color=green&right_color=red)
  
