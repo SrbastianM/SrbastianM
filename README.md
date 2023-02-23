@@ -11,6 +11,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 😀 I like to write, code, read, do my Duolingo (In that aplication I improve my actual level of English), and play video games in my free time.
 - 💬 **Ask me about anything im a very flexible persone**.
 - ⚡ Fun fact: My first line of code was not "Hello World!" -> if i remember my first code line was "Hello Miau" heeh in Java
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=SrbastianM.id&left_color=green&right_color=red)
 
 [![Tenki's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SrbastianM.id&left_color=green&right_color=red)
+
