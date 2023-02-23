@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner](https://i.pinimg.com/originals/af/07/eb/af07eb30c06a8b329e245a3169ae9f61.png)
+![Banner](https://i.pinimg.com/564x/aa/94/b7/aa94b783cc59867e7953515660dbc148.jpg)
 
 
 Hello!, My name is Sebastian. I currently lives in lives in the Colombia. I'm learning how to code about four years ago. I love making and designing phone aplications with Flutter and Kotlin (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily acceses (that's the reason why I choosed code mobile aplications) . I also enjoy programming in JavaScript but in this time I only focus to improve my skills in Mobile (later I re take my learning in javaScirpt. I love it when I can finally solve a difficult problem (even if take's a litle while).
