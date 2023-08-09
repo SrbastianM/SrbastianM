@@ -5,7 +5,7 @@ Hello!, My name is Sebastian. I currently live in Colombia. I've been learning c
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
-- 🌱 I’m currently learning Dart, React Native, Clean Architecture, and Kotlin.
+- 🌱 I’m currently learning Dart, Kotlin, Clean Architecture, and Native Android even while i got a job such as QA .
 - 🔭 I’m currently working on Q-vision Technologies as a QA Tester. I am currently looking for a change of position, so I am open to job offers. 
 - 😀 I like to write, code, read, do my Duolingo (In that aplication I improve my actual level of English), and play video games in my free time.
 - 💬 **Ask me about anything im a very flexible persone**.
