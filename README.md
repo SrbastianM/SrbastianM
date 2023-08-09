@@ -11,5 +11,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 💬 **Ask me about anything im a very flexible persone**.
 - ⚡ Fun fact: My first line of code was not "Hello World!" -> if i remember my first code line was "Hello Miau" heeh in Java
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 [![Tenki's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/SrbastianM/github-readme-stats)
