@@ -8,6 +8,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 - 🌱 I’m currently learning Dart, Kotlin, Clean Architecture, and Native Android even while i got a job such as QA .
 - 🔭 I’m currently working on Q-vision Technologies as a QA Tester. I am currently looking for a change of position, so I am open to job offers. 
-- 😀 I like to write, code, read, do my Duolingo (In that aplication I improve my actual level of English), and play video games in my free time.
+- 😀 I like to write, code, read, do my Duolingo (i lost my streak of days two days ago. It was 378 days :( ) and play video games in my free time.
 - 💬 **Ask me about anything im a very flexible persone**.
 - ⚡ Fun fact: My first line of code was not "Hello World!" -> if i remember my first code line was "Hello Miau" heeh in Java
