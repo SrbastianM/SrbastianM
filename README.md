@@ -12,4 +12,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 - ⚡ Fun fact: My first line of code was not "Hello World!" -> if i remember my first code line was "Hello Miau" heh in Java
   
 ## 🛠 Skills
-Android Native, Flutter, SQL lite, Firebase, Retrofit, Compose...
+Android Native, Flutter, SQL lite, Firebase, Retrofit, Compose, Junit4, Android UI, XML
